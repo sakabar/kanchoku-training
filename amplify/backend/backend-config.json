@@ -1,13 +1,13 @@
 {
   "auth": {
-    "kanchokutrainingda7f1f7a": {
+    "kanchokutraining4da77cf9": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
       "customAuth": false,
       "frontendAuthConfig": {
         "loginMechanisms": [
-          "EMAIL"
+          "PREFERRED_USERNAME"
         ],
         "signupAttributes": [
           "EMAIL"
