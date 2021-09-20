@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "kanchokutrainingda7f1f7a_identitypool_da7f1f7a",
+    "identityPoolName": "kanchokutraining4da77cf9_identitypool_4da77cf9",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "kanchoda7f1f7a",
-    "userPoolName": "kanchokutrainingda7f1f7a_userpool_da7f1f7a",
+    "resourceNameTruncated": "kancho4da77cf9",
+    "userPoolName": "kanchokutraining4da77cf9_userpool_4da77cf9",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -21,7 +21,7 @@
         "email"
     ],
     "aliasAttributes": [
-        "email"
+        "preferred_username"
     ],
     "userpoolClientGenerateSecret": false,
     "userpoolClientRefreshTokenValidity": 30,
@@ -31,10 +31,10 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "kanchoda7f1f7a_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "kancho4da77cf9_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "da7f1f7a",
-    "resourceName": "kanchokutrainingda7f1f7a",
+    "sharedId": "4da77cf9",
+    "resourceName": "kanchokutraining4da77cf9",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [
