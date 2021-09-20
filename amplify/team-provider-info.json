@@ -10,6 +10,11 @@
       "StackName": "amplify-kanchokutraining-dev-205910",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:697814294083:stack/amplify-kanchokutraining-dev-205910/2bd383c0-1a0a-11ec-88bc-0adf36cfea87",
       "AmplifyAppId": "d1arahtgp8jnf6"
+    },
+    "categories": {
+      "auth": {
+        "kanchokutrainingda7f1f7a": {}
+      }
     }
   }
 }
