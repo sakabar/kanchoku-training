@@ -1,0 +1,6 @@
+type StrokeToKanji @model {
+  id: ID!
+  user_name: String!
+  stroke: String!
+  kanji: String!
+}
